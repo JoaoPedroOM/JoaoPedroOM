@@ -3,6 +3,7 @@
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-909822252)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedromari28@gmail.com)
 
+<img alt="tecnologia" src="https://user-images.githubusercontent.com/63527881/219059621-3fc72f3f-ccab-4ad3-b570-2163d692a2a0.png" min-width="300px" max-width="300px" width="300px" align="right"/>
 
 ## Tecnologias que eu uso no meu dia
 
