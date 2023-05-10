@@ -1,5 +1,10 @@
 ### Olá! Meu nome é João Pedro e sou desenvolvedor. 👋
 
+  <div>
+   <a href="https://github.com/JoaoPedroOM">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoPedroOM&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-909822252)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedromari28@gmail.com)
 
