@@ -1,7 +1,6 @@
 ### Olá! Meu nome é João Pedro e sou desenvolvedor. 👋
 
    <div>
-   <a href="https://github.com/JoaoPedroOM">
    <img alt="tecnologia" src="https://user-images.githubusercontent.com/63527881/219059621-3fc72f3f-ccab-4ad3-b570-2163d692a2a0.png" min-width="300px" max-width="300px" width="300px" align="right"/>
   </div>
 
